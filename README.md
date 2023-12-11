@@ -27,7 +27,7 @@
 
 ```bash
 sudo -i
-bash <(curl -L https://raw.githubusercontent.com/wy580477/sing-warp/main/install.sh) 
+bash <(curl -L https://raw.githubusercontent.com/ksr-v/sing-warp/main/install.sh) 
 ```
 
 ## 使用
